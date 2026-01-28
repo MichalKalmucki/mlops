@@ -1,0 +1,22 @@
+# Data
+data/
+*.csv
+
+# PyTorch Lightning
+lightning_logs/
+checkpoints/
+*.ckpt
+
+# Wandb
+wandb/
+
+models/
+*.pt
+
+#Pycache
+__pycache__/
+*.pyc
+
+*.pth
+*.joblib
+*.json
